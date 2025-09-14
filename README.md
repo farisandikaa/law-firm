@@ -17,8 +17,6 @@ Built with [Laravel 10](https://laravel.com/) and [Breeze](https://laravel.com/d
 ## ✨ Features
 - 👥 Client management (CRUD)
 - 📁 Case and document management
-- 🗓️ Appointment scheduling
-- 📧 Communication logs & notes
 - 🔐 User authentication & role-based access
 - 📱 Responsive design with Tailwind CSS
 
