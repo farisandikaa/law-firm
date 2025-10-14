@@ -10,7 +10,7 @@
 **LawFirm** is a web-based application for managing legal services, clients, and case records for a law firm.  
 Built with [Laravel 10](https://laravel.com/) and [Breeze](https://laravel.com/docs/10.x/starter-kits#breeze), it provides a secure, efficient, and responsive solution for client management, case tracking, and administrative tasks.
 
-🔗 **Live Website:** ([DEMO](https://phplaravel-1520835-5851811.cloudwaysapps.com/))
+🔗 **Live Website:** https://hyplawoffice.com
 
 ---
 
